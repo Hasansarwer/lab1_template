@@ -1,2 +1,5 @@
 /.DS_Store
 /djangoenv
+/__pycache__
+/orm/__pycache__
+/orm/migrations
